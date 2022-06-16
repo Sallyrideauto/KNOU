@@ -13,10 +13,17 @@
 ## 기말과제
 1. 다음의 과제를 풀고 <지시사항>에 맞게 제출하시오. (25점)
    배열 x[10]을 선언하고, x[0]에 1, x[1]에 2 … x[9]에 10을 대입한 후, 포인터를 사용하여 짝수 번 요소의 합과 홀수 번 요소의 합을 구하는 프로그램을 작성하시오.
-   <img src="https://i.ibb.co/KmRtM6T/final1.jpg"><br>
+   <img src="https://i.ibb.co/6R9qKTY/image1.png"><br>
 2. 다음에 주어진 예제 프로그램들을 <지시시항>에 맞게 작성하시오. (각 15점)<br>
  * 교재 p168 [예제 5-1] <br>
    * 다음 프로그램은 대문자를 소문자로, 소문자는 대문자로 변환하는 프로그램이다.<br>
    * 대문자와 소문자의 ASCII 코드 값의 차이를 이용한다.<br>
-     <img src="https://i.ibb.co/y5G1C2g/final2-1.jpg"><br>
-
+     <img src="https://i.ibb.co/Cm7KwBw/image2.png"><br>
+ * 교재 p217 [예제 6-1] <br>
+   * 다음은 n개의 실수를 키보드를 통해 받아들여 평균과 표준편차를 구하는 프로그램이다.<br>
+   * 이때 표준편차 d=xi-avg이다.<br>
+   * 여기서 I = 1, 2, ..., n, xi는 각 원소, avg는 평균이다.<br>
+     <img src="https://i.ibb.co/p0qGz6n/image3.png"><br>
+ * 교재 p251 [예제 7-1]<br>
+   * 다음은 구조체에 배열을 사용한 프로그램이다.<br>
+     <img src="https://i.ibb.co/vDCdth0/image4.png"><br>
