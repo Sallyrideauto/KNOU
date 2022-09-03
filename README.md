@@ -1,2 +1,2 @@
 # KNOU
-Assingments of KNOU Computer Science Major
+Assignments of KNOU Computer Science Major
