@@ -12,3 +12,7 @@
     - [x] 대/소문자의 `ASCII` 코드 값의 차이를 이용하여 대/소문자 변환
     - [x] 입력받은 `n`개의 실수를 통해 평균과 표준편차 구하기
     - [x] 구조체와 배열을 사용하여 전화번호부 만들기
+### 2022 Autumn 🍁
+* C++ Programming
+* Machine Learning
+* Artificial Intelligence
